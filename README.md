@@ -28,7 +28,16 @@
 
 > **ملاحظة:** إذا ظهر تحذير Windows SmartScreen عند أول تشغيل، اختر «مزيد من المعلومات» ثم «تشغيل على أي حال».
 
-![عناصر المشهد](docs/screen.jpg)
+![الشاشة الرئيسية](docs/screen.jpg)
+
+## 📞 للتواصل
+
+<img src="docs/asfan-logo.png" alt="ASFAN" height="40">
+
+| | |
+|---|---|
+| الهاتف | <span dir="ltr">**+962776140404**</span> |
+| البريد الإلكتروني | [**info@asfanco.com**](mailto:info@asfanco.com) |
 
 </div>
 
@@ -47,5 +56,10 @@ A 3D digital twin of **King Abdullah International Gardens**, Riyadh, for fire-r
 **Requirements:** Windows 10/11 (64-bit), 8 GB RAM, a WebGL 2 graphics card, and a screen of 1600×900 or larger. No internet connection needed.
 
 If Windows SmartScreen warns you on first launch, choose "More info" and then "Run anyway".
+
+### Contact
+
+- Phone: **+962776140404**
+- Email: [info@asfanco.com](mailto:info@asfanco.com)
 
 © 2026 ASFAN. All rights reserved.
